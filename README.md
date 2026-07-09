@@ -6,6 +6,6 @@
 
 ---
 ## Demo Video
-[Video Demo](https://www.youtube.com/watch?v=JTsHnBxpreg)
+[Video Demo](https://youtu.be/0JBXmPROaMk)
 
 ---
