@@ -5,3 +5,7 @@
 **Semester**: Summer 2026
 
 ---
+## Demo Video
+[Video Demo](https://www.youtube.com/watch?v=JTsHnBxpreg)
+
+---
